@@ -5,6 +5,10 @@
 Use Scrapy framework to crawling user comments for a jd product.
 Use ElasticSearch to search comments based on key words.
 
+## TODO:
+JD's anti crawler system blocks the huge amount requests to get comments.
+So I think I need to add a proxy. 
+
 
 ## sample query
 
